@@ -1,2 +1,2 @@
-# C-PROGRAMLAMA
- C ile ilgili bazı kodlar
+# C-PROJELER
+ C programlama diliyle ilgili bazı kodlar

@@ -1,0 +1,14 @@
+#include <stdio.h>
+ 
+double get_angle(int hour, int minute);
+ 
+int main()
+{
+   int h, min;
+ 
+   printf("saat ve dakika değerlerini giriniz :");
+   scanf("%d%d", &h, &min);
+   printf("açı = %lf\n", get_angle(h, min));
+ 
+   return 0;
+}
